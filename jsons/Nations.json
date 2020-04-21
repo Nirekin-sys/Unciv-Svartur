@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Svartur",
+		"leaderName": "Necromancer Marzka",
+		"adjective": ["Svarturian"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Vartur requests new bodies to fill her graves!",
+		"attacked": "Hahaha! We welcome you to your own coffins!",
+		"defeated": "Ah, ah! Vartur, accept me as your child of death!",
+		"introduction": "Death is a gift to all who has lived, greetings.",
+		
+		"neutralHello": "Greetings, untouched one.",
+		"hateHello": "The unblessed are not allowed in her crypts!",
+		
+		"tradeRequest": "Let us enjoy commerce, a temporary gift, in our fleeting lives.",
+				
+		"outerColor": [64,64,64],
+		"innerColor": [0,0,0],
+		"unique": "POPULATION_GROWTH",
+		"cities": ["Zarqath","Goxrad","Mankarmus","Phagaod","Uk Kakkrak","Nudraz Gur","Vilruz","Khos Alkad","Zunroth","Azzouk",
+			"Az Khaszez","Ankhuz","Kutha","Phoggross","Joluzkox","Khazzex","Phozos","Jenrad","Kazzoszuth","Vexrad Khuss",
+			"Phucros","Odruz","Nazux","Tugalzur","Zokrakvar","Phor Abrath","Zumkas","Pertinax","Jaikurnax","Vartad",
+			"Gak Zagir","Kulteszuk","Zolkur Khix","Agax","Ushzaasur","Zad Chugrath","Phaxxrar Ak","Zoshrath","Nushaurneth","Guruz Gak"]
+	}
+]
