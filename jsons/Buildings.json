@@ -6,7 +6,7 @@
 		"culture": 3,
 		"happiness": 2,
 		"requiredBuilding": "Monument",
-		"cost": 60,
+		"cost": 120,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
 	}
