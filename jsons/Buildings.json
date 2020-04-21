@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Graveyard",
+		"replaces": "Temple",
+		"uniqueTo": "Svartur",
+		"culture": 3,
+		"happiness": 2,
+		"requiredBuilding": "Monument",
+		"cost": 60,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	}
+]
