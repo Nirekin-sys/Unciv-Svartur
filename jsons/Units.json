@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Cultist",
+		"unitType": "Melee",
+		"uniqueTo": "Svartur",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 12,
+		"cost": 55,
+		"requiredTech": "Philosophy",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["Can build improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
